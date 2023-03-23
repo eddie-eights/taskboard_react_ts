@@ -1,3 +1,8 @@
+## 使用技術
+フロントエンド：　React / Redux ToolKit
+バックエンド: Django Rest framework
+
+
 # DEMO
 ## メイン画面（TODOリスト作成・編集・削除）
 <img width="800" alt="スクリーンショット 2023-03-19 21 49 27" src="https://user-images.githubusercontent.com/108219026/227213681-3ed4da17-4596-4dee-9281-2ddb754331ba.png">
